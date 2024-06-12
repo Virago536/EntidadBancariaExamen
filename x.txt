@@ -1,0 +1,6 @@
+Datos de la cuenta: 
+4444;12/06/2024;300.0
+Datos del cliente: 
+Álvaro;Millán Serrano;greatalvaro2005@gmail.com
+Datos de las operaciones: 
+135793;300.0;12/08/2024

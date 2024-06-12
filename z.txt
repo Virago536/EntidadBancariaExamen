@@ -1,0 +1,10 @@
+Datos de la cuenta: 
+1234;11/01/2020;150.0
+Datos del cliente: 
+Álvaro;Millán Serrano;greatalvaro2005@gmail.com
+Datos documento: 
+DNI;53703984
+Datos de las operaciones: 
+279234;250.0;12/06/2021
+254793;75.0;16/05/2022
+119145;25.0;12/06/2024
