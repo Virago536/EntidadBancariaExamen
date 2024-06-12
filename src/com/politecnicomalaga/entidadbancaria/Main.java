@@ -90,8 +90,8 @@ public class Main {
 			ruta = sc.nextLine();
 			if(miCuenta.agregarCliente(ruta)) {
 				System.out.println("Cliente agregado correctamente");
-				Documento unDoc = new Documento("DNI", 53703984);
-				miCuenta.getCliente().setDocumento(unDoc);
+				//Documento unDoc = new Documento("DNI", 53703984);
+				//miCuenta.getCliente().setDocumento(unDoc);
 			}else {
 				System.out.println("No se pudo agregar el cliente");
 			}
